@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\MyProject\Dialog-master\Dialog-master\Dialog.iml" filepath="E:\MyProject\Dialog-master\Dialog-master\Dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dialog-master.iml" filepath="$PROJECT_DIR$/Dialog-master.iml" />
+      <module fileurl="file://E:\MyProject\Dialog-master\Dialog-master\Dialog2.iml" filepath="E:\MyProject\Dialog-master\Dialog-master\Dialog2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\MyProject\Dialog-master\Dialog-master\app\app.iml" filepath="E:\MyProject\Dialog-master\Dialog-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialog/dialog.iml" filepath="$PROJECT_DIR$/dialog/dialog.iml" />
+      <module fileurl="file://E:\MyProject\Dialog-master\Dialog-master\dialog\dialog.iml" filepath="E:\MyProject\Dialog-master\Dialog-master\dialog\dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sweeploadingview/sweeploadingview.iml" filepath="$PROJECT_DIR$/sweeploadingview/sweeploadingview.iml" />
+      <module fileurl="file://E:\MyProject\Dialog-master\Dialog-master\sweeploadingview\sweeploadingview.iml" filepath="E:\MyProject\Dialog-master\Dialog-master\sweeploadingview\sweeploadingview.iml" />
+    </modules>
+  </component>
+</project>
